@@ -22,19 +22,25 @@ O site consiste em uma única página com as seguintes seções:
 3. **Planos de Contrato/Pagamento** - Opções de planos para diferentes tipos de usuários.
    <img src="">
 
-4. **Newsletter** - Formulário para os usuários se inscreverem.
+4. **Informações Adicionais** - Tópicos de informações relevantes.
    <img src="">
 
-5. **Rodapé** - Informações adicionais e links.
+5. **Newsletter e Rodapé** - Formulário para os usuários se inscreverem e o Rodapé.
    <img src="">
 
 ## 💻 Como Rodar o Projeto
+
+O projeto está hospedado e pode ser acessado diretamente pelo link abaixo:
+
+📍 [Acesse o site FlexBlog](https://luisgustavocarvalho.github.io/FlexBlog/)
+
+Caso queira rodá-lo localmente:
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/luisgustavocarvalho/flexblog.git
    ```
-2. Abra o arquivo `index.html` no navegador.
+2. Abra o arquivo `index.html` no navegador
 3. O site será exibido responsivamente em diferentes dispositivos.
 
 ---
