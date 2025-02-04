@@ -14,19 +14,19 @@ FlexBlog é um projeto de site responsivo de uma única página desenvolvido par
 O site consiste em uma única página com as seguintes seções:
 
 1. **Introdução** - Apresentação da página e sua proposta.
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/FlexBlog/refs/heads/main/Introducao.jpeg">
 
 2. **Produtos** - Seção que apresenta os produtos fictícios oferecidos.
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/FlexBlog/refs/heads/main/Produtos.jpeg">
 
 3. **Planos de Contrato/Pagamento** - Opções de planos para diferentes tipos de usuários.
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/FlexBlog/refs/heads/main/Plano.jpeg">
 
 4. **Informações Adicionais** - Tópicos de informações relevantes.
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/FlexBlog/refs/heads/main/Informacoes%20Adicionais.jpeg">
 
 5. **Newsletter e Rodapé** - Formulário para os usuários se inscreverem e o Rodapé.
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/FlexBlog/refs/heads/main/Newsletter%20e%20Rodape.jpeg">
 
 ## 💻 Como Rodar o Projeto
 
